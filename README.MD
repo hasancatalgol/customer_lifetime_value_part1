@@ -1,6 +1,5 @@
-# Customer Lifetime Value
+# Customer Lifetime Value (CTV/CLTV)
 
-[Google Colab]()
 -------
 
 [Google Colab](https://colab.research.google.com/github/hasancatalgol/customer_lifelong_value/blob/main/customer_lifetime_value_last.ipynb)
