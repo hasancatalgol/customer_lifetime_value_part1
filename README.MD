@@ -3,7 +3,7 @@
 [Google Colab]()
 -------
 
-[![Google Colab](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg) =50x50](https://colab.research.google.com/github/hasancatalgol/customer_lifelong_value/blob/main/customer_lifetime_value_last.ipynb)
+[Google Colab](https://colab.research.google.com/github/hasancatalgol/customer_lifelong_value/blob/main/customer_lifetime_value_last.ipynb)
 
 ## What is Customer Lifetime Value?
 
