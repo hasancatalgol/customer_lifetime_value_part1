@@ -2,9 +2,8 @@
 
 [Google Colab]()
 -------
-[![Google Colab](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)
-![model](https://raw.githubusercontent.com/hasancatalgol/level_based_persona_streamlit/main/Pics/model.png)
 
+[![Google Colab](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)](https://colab.research.google.com/github/hasancatalgol/customer_lifelong_value/blob/main/customer_lifetime_value_last.ipynb)
 
 ## What is Customer Lifetime Value?
 
